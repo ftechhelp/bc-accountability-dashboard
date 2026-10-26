@@ -1,0 +1,25 @@
+services:
+  # Not named "bc-accountability-dashboard": Compose registers the service name as a DNS alias on
+  # the shared private network, which would collide with the bc-accountability-dashboard /
+  # bc-accountability-dashboard-dev proxy hostnames.
+  bc-accountability-dashboard-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: bc-accountability-dashboard-dev
+    restart: "no"
+    # Intentionally no `ports:` — reachable only from the `private` network.
+    # Point nginx-proxy-manager at http://bc-accountability-dashboard-dev:8080
+    networks:
+      - private
+    healthcheck:
+      test: ["CMD", "wget", "-q", "--spider", "http://127.0.0.1:8080/"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+networks:
+  private:
+    external: true
+    name: private
+name: bc-accountability-dashboard-dev

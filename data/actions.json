@@ -1,0 +1,93 @@
+[
+  {
+    "id": "2026-10-25-pacific-link-pipeline",
+    "date": "2026-10-25",
+    "title": "Doerkson's first calls will push a new oil pipeline",
+    "summary": "Premier-designate Lorne Doerkson says among his first calls as premier will be to Prime Minister Mark Carney and Alberta Premier Danielle Smith \"to get the Pacific Link pipeline working group moving,\" and renewed his pledge to expand LNG.",
+    "kind": "statement",
+    "category": "climate",
+    "impact": "regressive",
+    "weight": 3,
+    "note": "The platform only promised a \"trilateral working group\" with Alberta and Ottawa; on day one it's explicitly about a new oil pipeline to the coast. That goes further than the platform text.",
+    "promiseIds": ["trilateral-pipeline", "lng-double-triple"],
+    "sources": [
+      {
+        "title": "B.C. Conservative's Lorne Doerkson sets out urgent priorities to govern",
+        "url": "https://lethbridgeherald.com/news/national-news/2026/10/25/b-c-conservatives-lorne-doerkson-sets-out-urgent-priorities-to-govern/",
+        "publisher": "The Canadian Press",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "B.C. premier-designate Doerkson urges unity and promises swift action after decisive victory",
+        "url": "https://peacearchnews.com/2026/10/25/b-c-premier-designate-doerkson-addresses-media-after-conservative-majority-win/",
+        "publisher": "Peace Arch News",
+        "date": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "2026-10-25-dripa-priority",
+    "date": "2026-10-25",
+    "title": "DRIPA repeal confirmed as a priority, bill expected in spring",
+    "summary": "Doerkson says DRIPA \"hasn't worked and has landed the province in court\" and that he remains \"completely committed\" to working with First Nations in other ways. A repeal bill likely won't come until the spring sitting.",
+    "kind": "statement",
+    "category": "indigenous",
+    "impact": "regressive",
+    "weight": 3,
+    "note": "A spring bill gives First Nations, legal experts and the public a window to organize before it's tabled. Repeal would end BC's legal commitment to align its laws with UNDRIP.",
+    "promiseIds": ["dripa-repeal"],
+    "sources": [
+      {
+        "title": "B.C. premier-designate Doerkson urges unity and promises swift action after decisive victory",
+        "url": "https://peacearchnews.com/2026/10/25/b-c-premier-designate-doerkson-addresses-media-after-conservative-majority-win/",
+        "publisher": "Peace Arch News",
+        "date": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "2026-10-25-first-priorities",
+    "date": "2026-10-25",
+    "title": "First priorities: ER commission, fiscal review, election calendar",
+    "summary": "Doerkson commits to an ER and wait-times commission within 100 days, an independent review of the province's finances before the first budget (\"you will have the full picture\"), and immediate work to stop provincial and municipal elections overlapping. He also plans to bring forward tax cuts when the legislature returns.",
+    "kind": "statement",
+    "category": "budget",
+    "impact": "neutral",
+    "weight": 1,
+    "note": "Watch the fiscal review: it's the usual setup for \"the books are worse than we thought\" cuts.",
+    "promiseIds": ["patients-first-review", "fiscal-review", "respect-local-democracy", "income-tax-cut"],
+    "sources": [
+      {
+        "title": "B.C. premier-designate Doerkson urges unity and promises swift action after decisive victory",
+        "url": "https://peacearchnews.com/2026/10/25/b-c-premier-designate-doerkson-addresses-media-after-conservative-majority-win/",
+        "publisher": "Peace Arch News",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "B.C. Conservative's Lorne Doerkson sets out urgent priorities to govern",
+        "url": "https://lethbridgeherald.com/news/national-news/2026/10/25/b-c-conservatives-lorne-doerkson-sets-out-urgent-priorities-to-govern/",
+        "publisher": "The Canadian Press",
+        "date": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "2026-10-25-transition-chair",
+    "date": "2026-10-25",
+    "title": "Kim Henderson named transition chair",
+    "summary": "Kim Henderson, a former deputy minister and head of the public service under BC Liberal governments, will chair the transition team as a volunteer while on unpaid leave from Trans Mountain Corp.",
+    "kind": "appointment",
+    "category": "democracy",
+    "impact": "neutral",
+    "weight": 1,
+    "note": "An experienced establishment pick rather than an ideological one. The Trans Mountain connection is worth noting alongside the pipeline push.",
+    "sources": [
+      {
+        "title": "B.C. Conservative's Lorne Doerkson sets out urgent priorities to govern",
+        "url": "https://lethbridgeherald.com/news/national-news/2026/10/25/b-c-conservatives-lorne-doerkson-sets-out-urgent-priorities-to-govern/",
+        "publisher": "The Canadian Press",
+        "date": "2026-10-25"
+      }
+    ]
+  }
+]

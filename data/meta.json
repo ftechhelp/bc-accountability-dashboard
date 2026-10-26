@@ -1,0 +1,105 @@
+{
+  "lastUpdated": "2026-10-25",
+  "government": {
+    "premier": "Lorne Doerkson",
+    "party": "Conservative Party of British Columbia",
+    "electionDate": "2026-10-24",
+    "seats": "≈64 of 93 seats (unofficial, Oct 25)",
+    "swornIn": null,
+    "statusNote": "Cabinet is sworn in after the election results are certified (expected around Nov 18, 2026). Until then, the activity log tracks the premier-designate's statements and appointments.",
+    "sources": [
+      {
+        "title": "B.C. Conservative's Lorne Doerkson sets out urgent priorities to govern",
+        "url": "https://lethbridgeherald.com/news/national-news/2026/10/25/b-c-conservatives-lorne-doerkson-sets-out-urgent-priorities-to-govern/",
+        "publisher": "The Canadian Press",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "B.C. turns blue: Conservatives win majority, with Lorne Doerkson to be premier",
+        "url": "https://cheknews.ca/conservatives-win-b-c-election-with-lorne-doerkson-to-be-premier-1356082/",
+        "publisher": "CHEK / The Canadian Press",
+        "date": "2026-10-24"
+      }
+    ]
+  },
+  "lens": "Ratings reflect a progressive lens: climate action, Indigenous rights and reconciliation, strong public services, harm reduction, inclusion, workers, and reducing inequality. Notes try to be fair about trade-offs; ratings are a judgment call and can be changed in data/*.json.",
+  "platformSources": [
+    {
+      "title": "Lorne Doerkson's Plan for a Stronger BC (2026 platform, PDF)",
+      "url": "https://conservativebc.ca/wp-content/uploads/2026/10/20261016_BCC_Platform2026_8-5x11-Draft-18_compressed.pdf",
+      "publisher": "Conservative Party of BC",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "BC Conservative Party platform 2026: Promises by issue",
+      "url": "https://bcballot.ca/platforms/conservative-party/",
+      "publisher": "BC Ballot"
+    }
+  ],
+  "gaps": [
+    {
+      "title": "No emissions targets",
+      "text": "The platform repeals CleanBC and never commits to BC's legislated targets (40% below 2007 levels by 2030). Its only climate framing is three 'tests' for climate decisions.",
+      "sources": [
+        {
+          "title": "B.C.'s Conservative party just won a majority. Here's what it means for the environment",
+          "url": "https://thenarwhal.ca/bc-election-2026-result/",
+          "publisher": "The Narwhal",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    {
+      "title": "No 30×30 nature protection goal",
+      "text": "The platform doesn't mention protecting 30% of lands and waters by 2030. Former leader John Rustad said in 2024 the party would abandon it.",
+      "sources": [
+        {
+          "title": "B.C.'s Conservative party just won a majority. Here's what it means for the environment",
+          "url": "https://thenarwhal.ca/bc-election-2026-result/",
+          "publisher": "The Narwhal",
+          "date": "2026-10-24"
+        }
+      ]
+    },
+    {
+      "title": "Nothing for renters",
+      "text": "None of the housing commitments address renters, rent increases, tenant protections, or non-market and social housing. The housing plan is about speeding up construction and returning density decisions to municipalities.",
+      "sources": [
+        {
+          "title": "BC Conservative Party platform 2026: Promises by issue",
+          "url": "https://bcballot.ca/platforms/conservative-party/",
+          "publisher": "BC Ballot"
+        }
+      ]
+    },
+    {
+      "title": "New spending arrives slowly; cuts start day one",
+      "text": "The platform's own costing phases in new social spending at 10% of full cost in 2027/28, reaching full cost only in 2030/31. The hiring freeze and consultant cuts start immediately. Watch whether promised supports (disability increase, seniors care, mental health) actually arrive this term.",
+      "sources": [
+        {
+          "title": "Lorne Doerkson's Plan for a Stronger BC — Appendix B, Table B1",
+          "url": "https://conservativebc.ca/wp-content/uploads/2026/10/20261016_BCC_Platform2026_8-5x11-Draft-18_compressed.pdf",
+          "publisher": "Conservative Party of BC",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "title": "Revenue rests on optimistic growth",
+      "text": "The plan pays for $3.5B/yr in tax relief partly by assuming growth of 2.5%, 2.8% and 3.2% (2027–29), above the Finance Ministry's 1.9–2.1% forecast. If growth falls short, the 'no new taxes' pledge leaves spending cuts as the main lever.",
+      "sources": [
+        {
+          "title": "'Absolutely doable' or 'wishful thinking'? Doerkson defends costed B.C. Conservative platform",
+          "url": "https://www.ctvnews.ca/vancouver/article/doerkson-says-bc-conservative-growth-projection-of-32-absolutely-doable/",
+          "publisher": "CTV News"
+        },
+        {
+          "title": "Lorne Doerkson's Plan for a Stronger BC — Appendix A, Part 3",
+          "url": "https://conservativebc.ca/wp-content/uploads/2026/10/20261016_BCC_Platform2026_8-5x11-Draft-18_compressed.pdf",
+          "publisher": "Conservative Party of BC",
+          "date": "2026-10-16"
+        }
+      ]
+    }
+  ]
+}

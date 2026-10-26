@@ -1,0 +1,1868 @@
+[
+  {
+    "id": "dripa-repeal",
+    "category": "indigenous",
+    "text": "Repeal the Declaration on the Rights of Indigenous Peoples Act (DRIPA).",
+    "impact": "regressive",
+    "weight": 3,
+    "note": "DRIPA passed unanimously in 2019 and commits BC to align its laws with the UN Declaration on the Rights of Indigenous Peoples. It is also the legal basis for consent-based decision-making agreements with First Nations. Doerkson calls repeal a top priority.",
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-10-25",
+        "text": "Doerkson says DRIPA \"hasn't worked and has landed the province in court.\" A repeal bill likely won't be introduced until the spring sitting.",
+        "sources": [
+          {
+            "title": "B.C. premier-designate Doerkson urges unity and promises swift action after decisive victory",
+            "url": "https://peacearchnews.com/2026/10/25/b-c-premier-designate-doerkson-addresses-media-after-conservative-majority-win/",
+            "publisher": "Peace Arch News",
+            "date": "2026-10-25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "interpretation-act-repeal",
+    "category": "indigenous",
+    "text": "Repeal section 8.1 of the Interpretation Act and the NDP's litigation directives, and \"restore the section 35 constitutional framework.\"",
+    "impact": "regressive",
+    "weight": 3,
+    "note": "Section 8.1 requires every BC law to be read consistently with UNDRIP. The litigation directives steer the province toward negotiation over courtroom fights on Indigenous rights. Repealing both signals a return to litigating rights and title cases.",
+    "status": "not_started"
+  },
+  {
+    "id": "property-rights-defence-act",
+    "category": "indigenous",
+    "text": "Pass a Property Rights Defence Act upholding the validity of the Land Title Act on all fee-simple properties in BC.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "A response to the 2025 Cowichan Tribes Aboriginal title ruling in Richmond. Aboriginal title is protected by section 35 of the Constitution, which a provincial statute can't override, so the law's main effect may be political: framing title as a threat to homeowners.",
+    "status": "not_started"
+  },
+  {
+    "id": "title-transparency-act",
+    "category": "indigenous",
+    "text": "Pass an Aboriginal Title Transparency Act publishing maps and information about active claims, negotiations, legal actions and agreements affecting land before they become binding.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Publishing negotiations before they're final could chill treaty and title talks and invite organized opposition to agreements still in progress.",
+    "status": "not_started"
+  },
+  {
+    "id": "crown-land-access",
+    "category": "indigenous",
+    "text": "\"Restore equal access\" to Crown land and provincial parks: guarantee public access to Crown land, beaches and backcountry in law, subject only to conservation and safety requirements.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Appears aimed at temporary closures like those at Joffre Lakes (Pipi7íyekw) for Líl̓wat and N'Quatqua cultural use. A legal access guarantee could undercut Indigenous co-management of parks and land.",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "Lorne Doerkson's Plan for a Stronger BC (2026 platform, PDF)",
+        "url": "https://conservativebc.ca/wp-content/uploads/2026/10/20261016_BCC_Platform2026_8-5x11-Draft-18_compressed.pdf",
+        "publisher": "Conservative Party of BC",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "B.C.'s Conservative party just won a majority. Here's what it means for the environment",
+        "url": "https://thenarwhal.ca/bc-election-2026-result/",
+        "publisher": "The Narwhal",
+        "date": "2026-10-24"
+      }
+    ]
+  },
+  {
+    "id": "honour-existing-agreements",
+    "category": "indigenous",
+    "text": "Honour existing First Nations agreements on LNG, pipelines and transmission; honour constitutional rights and the duty to consult and accommodate.",
+    "impact": "neutral",
+    "weight": 2,
+    "note": "Worth testing against DRIPA repeal: some existing agreements, such as consent-based decision-making agreements under DRIPA's section 7, rest on the law they plan to repeal.",
+    "status": "not_started"
+  },
+  {
+    "id": "equity-financing",
+    "category": "indigenous",
+    "text": "Rebuild BC's equity-financing program for First Nations ownership of major projects, using the Alberta and Saskatchewan loan-guarantee models.",
+    "impact": "progressive",
+    "weight": 2,
+    "note": "Indigenous equity ownership is something many Nations have asked for. The catch is that most projects it would finance are fossil-fuel infrastructure.",
+    "status": "not_started"
+  },
+  {
+    "id": "consultation-capacity",
+    "category": "indigenous",
+    "text": "Help First Nations and Indigenous resource groups build administrative and technical capacity so consultation is done properly and on time.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "first-nations-lng-ownership",
+    "category": "indigenous",
+    "text": "Put First Nations at the centre of LNG development with expanded ownership and partnership; partner with the First Nations Major Projects Coalition.",
+    "impact": "mixed",
+    "weight": 1,
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "reconciliation-approach",
+    "category": "indigenous",
+    "text": "Pursue reconciliation through \"practical cooperation,\" clear and fair treaty agreements, revenue sharing and ownership opportunities.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "lng-double-triple",
+    "category": "climate",
+    "text": "Double natural gas production by 2032 and triple it by 2035 under the \"BC Energy Superpower Plan.\"",
+    "impact": "regressive",
+    "weight": 3,
+    "note": "The single biggest climate risk in the platform. Oil and gas is already BC's largest industrial emitter; tripling production would put BC's legislated emissions targets out of reach unless every other sector cut far faster.",
+    "status": "not_started"
+  },
+  {
+    "id": "cleanbc-repeal",
+    "category": "climate",
+    "text": "Repeal CleanBC \"to remove barriers to investment and growth.\"",
+    "impact": "regressive",
+    "weight": 3,
+    "note": "CleanBC is BC's core climate plan, covering building and vehicle electrification, industrial programs and clean-energy requirements. The consumer carbon tax is already gone; this removes most of what's left.",
+    "status": "not_started"
+  },
+  {
+    "id": "zev-mandate-end",
+    "category": "climate",
+    "text": "End the zero-emission vehicle sales quota.",
+    "impact": "regressive",
+    "weight": 3,
+    "note": "Transportation is BC's largest source of emissions. The ZEV Act requires automakers to sell a rising share of zero-emission vehicles here; without it, BC loses its main lever on EV supply.",
+    "status": "not_started"
+  },
+  {
+    "id": "industrial-carbon-price-kept",
+    "category": "climate",
+    "text": "Keep a carbon price on large industrial emitters and the revenue it raises.",
+    "impact": "progressive",
+    "weight": 2,
+    "note": "A genuine positive: output-based industrial carbon pricing is one of the most effective climate tools left. Watch whether it survives the separate promise to rewrite LNG carbon rules.",
+    "status": "not_started"
+  },
+  {
+    "id": "lng-carbon-framework",
+    "category": "climate",
+    "text": "Replace the LNG carbon-tax framework with \"stable guidance\" that doesn't penalize BC exports, and end emissions limits that the party says block investment beyond LNG Canada.",
+    "impact": "regressive",
+    "weight": 3,
+    "note": "Would remove the NDP's requirement that new LNG facilities have a credible plan to reach net zero by 2030, the main guardrail on LNG emissions.",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      },
+      {
+        "title": "B.C.'s Conservative party just won a majority. Here's what it means for the environment",
+        "url": "https://thenarwhal.ca/bc-election-2026-result/",
+        "publisher": "The Narwhal",
+        "date": "2026-10-24"
+      }
+    ]
+  },
+  {
+    "id": "avoided-emissions-accounting",
+    "category": "climate",
+    "text": "Report BC's emissions alongside \"emissions avoided\" through exports (e.g. gas replacing coal overseas), count the full value of forests as offsets, and seek federal credit when BC LNG displaces coal.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Paris Agreement accounting counts emissions where they occur. Claiming credit for displacement abroad is unverifiable and can mask rising domestic emissions. BC's managed forests have been a net emissions source in recent years because of wildfire and pine beetle.",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "Lorne Doerkson's Plan for a Stronger BC (2026 platform, PDF)",
+        "url": "https://conservativebc.ca/wp-content/uploads/2026/10/20261016_BCC_Platform2026_8-5x11-Draft-18_compressed.pdf",
+        "publisher": "Conservative Party of BC",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "B.C.'s Conservative party just won a majority. Here's what it means for the environment",
+        "url": "https://thenarwhal.ca/bc-election-2026-result/",
+        "publisher": "The Narwhal",
+        "date": "2026-10-24"
+      }
+    ]
+  },
+  {
+    "id": "gas-bans-override",
+    "category": "climate",
+    "text": "Stop municipal bans on gas connections and mandatory heating technologies, \"restore choice\" in home heating and cooking, and keep natural gas available in every community.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Overrides municipalities that require zero-carbon heating in new buildings through the Zero Carbon Step Code. Buildings are a major emissions source, and new gas hookups lock in emissions for decades.",
+    "status": "not_started"
+  },
+  {
+    "id": "gas-power-calls",
+    "category": "climate",
+    "text": "Include gas-fired generation alongside renewables and hydro in BC Hydro's regular calls for power.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "BC's grid is about 98% clean. New gas plants would add emissions to the electricity system for decades.",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      },
+      {
+        "title": "B.C.'s Conservative party just won a majority. Here's what it means for the environment",
+        "url": "https://thenarwhal.ca/bc-election-2026-result/",
+        "publisher": "The Narwhal",
+        "date": "2026-10-24"
+      }
+    ]
+  },
+  {
+    "id": "end-prescriptive-power",
+    "category": "climate",
+    "text": "End \"prescriptive power rules\" and let industry choose its own power supply, including self-generation.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Would let LNG plants and mines burn gas for power instead of connecting to BC's clean grid.",
+    "status": "not_started"
+  },
+  {
+    "id": "pipelines-backed",
+    "category": "climate",
+    "text": "Approve LNG projects and their pipelines, including Coastal GasLink Phase 2, Prince Rupert Gas Transmission and Enbridge's Sunrise expansion, and get BC resources \"to tidewater.\"",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Each locks in fossil-fuel infrastructure with a multi-decade lifespan.",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "Lorne Doerkson's Plan for a Stronger BC (2026 platform, PDF)",
+        "url": "https://conservativebc.ca/wp-content/uploads/2026/10/20261016_BCC_Platform2026_8-5x11-Draft-18_compressed.pdf",
+        "publisher": "Conservative Party of BC",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "trilateral-pipeline",
+    "category": "climate",
+    "text": "On becoming Premier, request a trilateral working group with Alberta and Ottawa, and establish resource corridors for linear infrastructure including pipeline expansions.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Opens the door to a new oil pipeline to BC's coast.",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ],
+    "updates": [
+      {
+        "date": "2026-10-25",
+        "text": "Doerkson says among his first calls as premier will be to PM Mark Carney and Alberta Premier Danielle Smith \"to get the Pacific Link pipeline working group moving.\"",
+        "sources": [
+          {
+            "title": "B.C. Conservative's Lorne Doerkson sets out urgent priorities to govern",
+            "url": "https://lethbridgeherald.com/news/national-news/2026/10/25/b-c-conservatives-lorne-doerkson-sets-out-urgent-priorities-to-govern/",
+            "publisher": "The Canadian Press",
+            "date": "2026-10-25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ksi-lisims",
+    "category": "climate",
+    "text": "Work with First Nations, investors and buyers to move Ksi Lisims LNG to a final construction decision.",
+    "impact": "mixed",
+    "weight": 2,
+    "note": "Led by the Nisga'a Nation, so it advances Indigenous ownership, but it would be one of BC's largest new emission sources.",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "renewables-support",
+    "category": "climate",
+    "text": "Support wind, solar, run-of-river and geothermal \"where economics and reliability make sense\"; give every renewable technology a fair look for the grid.",
+    "impact": "progressive",
+    "weight": 1,
+    "note": "Positive in principle, but heavily hedged. Watch whether BC Hydro's renewable calls for power continue.",
+    "status": "not_started"
+  },
+  {
+    "id": "hydro-upgrades",
+    "category": "climate",
+    "text": "Support BC Hydro capital upgrades that increase capacity and extend the life of existing dams.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "transmission-psi",
+    "category": "climate",
+    "text": "Make transmission into the northwest, northeast and southern Interior provincially significant infrastructure with fixed in-service dates, including the North Coast transmission line.",
+    "impact": "neutral",
+    "weight": 1,
+    "note": "Grid expansion helps electrification, but much of the new demand it's built for is LNG and mining.",
+    "status": "not_started"
+  },
+  {
+    "id": "private-offgrid-power",
+    "category": "climate",
+    "text": "Let private producers sell electricity directly to off-grid projects such as mines, with investors carrying the financial risk.",
+    "impact": "mixed",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "montney-strategic",
+    "category": "climate",
+    "text": "Designate the liquid-rich Montney Formation as a strategic provincial asset.",
+    "impact": "regressive",
+    "weight": 1,
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "biomass-strategy",
+    "category": "climate",
+    "text": "Develop a biomass and bioenergy strategy turning forestry residuals and mill waste into renewable fuels, starting with Clean Fuels Hubs in Prince George and Kamloops.",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "Better than burning slash piles if it truly uses residuals; worse if it drives more logging for fuel.",
+    "status": "not_started"
+  },
+  {
+    "id": "hydrogen",
+    "category": "climate",
+    "text": "Expand gas transmission and hydrogen infrastructure; support hydrogen production and refuelling where taxpayers can see a return.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "aviation-fuel",
+    "category": "climate",
+    "text": "Align BC's aviation fuel targets with the federal framework \"to make air travel in BC cheaper.\"",
+    "impact": "regressive",
+    "weight": 1,
+    "note": "Implies loosening BC's low-carbon fuel requirements for aviation.",
+    "status": "not_started"
+  },
+  {
+    "id": "old-growth-deferrals",
+    "category": "environment",
+    "text": "Resolve the old-growth deferrals: protect \"original old growth\" and the rarest ecosystems, and return remaining deferred land to the working forest.",
+    "impact": "regressive",
+    "weight": 3,
+    "note": "The deferrals followed the 2020 Old Growth Strategic Review and a 2021 technical panel that identified about 2.6 million hectares of at-risk old growth. \"Original\" old growth is a narrower category; returning the rest to logging reopens big-tree forests the panel flagged.",
+    "status": "not_started"
+  },
+  {
+    "id": "species-at-risk-law",
+    "category": "environment",
+    "text": "Enact a made-in-BC species-at-risk law \"so BC habitat decisions are made here rather than imposed by Ottawa.\"",
+    "impact": "mixed",
+    "weight": 2,
+    "note": "BC has no stand-alone endangered species law, so one could be a real gain. But the framing suggests a law designed to pre-empt stronger federal protection (e.g. for spotted owl and caribou). The details will decide it.",
+    "status": "not_started"
+  },
+  {
+    "id": "outcome-based-rules",
+    "category": "environment",
+    "text": "One set of \"outcome-based\" environmental rules scaled to a project's footprint and decided on published timelines. Where affected First Nations hold an ownership stake, record their agreement and proceed on that basis.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Fixed timelines and footprint-scaled review can weaken environmental assessment. Treating one Nation's ownership stake as settling the question can sideline other affected Nations.",
+    "status": "not_started"
+  },
+  {
+    "id": "conservation-officers",
+    "category": "environment",
+    "text": "Put more conservation officers in the field and set science-based fish and wildlife population objectives with hunters, anglers and First Nations.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "wildlife-commission",
+    "category": "environment",
+    "text": "Dedicate hunting and fishing licence and tag revenue to an independent fish and wildlife commission.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "parks-enforcement",
+    "category": "environment",
+    "text": "Increase enforcement to keep parks and wilderness pristine; crack down on illegal dumping, graffiti and vandalism.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "salmon-habitat",
+    "category": "environment",
+    "text": "Invest in habitat restoration to return salmon to BC rivers, managing fisheries with \"evidence-based consideration\" of predator imbalance.",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "Habitat restoration is positive. \"Predator imbalance\" language often precedes calls for seal and sea lion culls.",
+    "status": "not_started"
+  },
+  {
+    "id": "aquaculture",
+    "category": "environment",
+    "text": "Ask Ottawa to permit \"responsible aquaculture\" where evidence shows it doesn't harm wild salmon.",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "Could be used to push back on the federal phase-out of open-net salmon farms in BC waters.",
+    "status": "not_started"
+  },
+  {
+    "id": "harvest-floor",
+    "category": "resources",
+    "text": "Set a timber harvest floor of 45 million cubic metres a year.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "The platform's own costing says Budget 2026 assumes a 29 million m³ Crown harvest, so this is a ~55% increase, set as a minimum regardless of wildfire losses, old-growth protection or First Nations land-use plans.",
+    "status": "not_started"
+  },
+  {
+    "id": "harvest-approvals",
+    "category": "resources",
+    "text": "Immediately simplify harvest approvals and create a \"major-project-style\" forestry permitting process with decisions in months and a single-window First Nations consultation hub.",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "Faster permits help mill towns; compressed timelines can shortchange consultation and ecological review.",
+    "status": "not_started"
+  },
+  {
+    "id": "forestry-costs",
+    "category": "resources",
+    "text": "Review and eliminate \"unnecessary\" permitting costs so BC mills can get back to work; extend the BC Manufacturing Jobs Fund.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "forestry-fn-participation",
+    "category": "resources",
+    "text": "Encourage Indigenous participation in forestry through skills training, and ensure First Nations benefit fully from federal forestry funding.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "softwood",
+    "category": "resources",
+    "text": "Make softwood lumber a first-rank priority in US negotiations; appoint a BC representative in Washington, D.C.; prioritize BC wood in government-funded projects.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "alr-remap",
+    "category": "resources",
+    "text": "Remap the Agricultural Land Reserve with modern soil and mapping technology and reform the ALR Act \"to put food security first.\"",
+    "impact": "mixed",
+    "weight": 2,
+    "note": "The ALR protects scarce farmland from development. A remap could add land or remove it; watch for exclusions near growing cities.",
+    "status": "not_started"
+  },
+  {
+    "id": "farm-diversification",
+    "category": "resources",
+    "text": "Modernize the 50/50 on-farm processing rule; allow secondary uses and limited short-term rentals on farmland for agri-tourism; cut agricultural red tape.",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "Non-farm uses on ALR land have historically opened the door to speculation.",
+    "status": "not_started"
+  },
+  {
+    "id": "food-security-target",
+    "category": "resources",
+    "text": "Set a measurable food production target, starting with 10% less reliance on imported food by 2030.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "farm-water",
+    "category": "resources",
+    "text": "Protect existing farm water allocations, enable more storage, accelerate groundwater licensing and give farmers a seat in watershed planning.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "mining-permitting",
+    "category": "resources",
+    "text": "Legislate mining permit certainty with fixed timelines and \"one project, one review,\" and make BC \"the fastest place in North America to permit a mine and an LNG facility.\"",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Speed targets put pressure on environmental review and consultation. BC still lives with the legacy of mine failures like Mount Polley (2014) and Tulsequah Chief.",
+    "status": "not_started"
+  },
+  {
+    "id": "exploration-open",
+    "category": "resources",
+    "text": "Identify where mineral exploration is welcome and keep it open, with land-use planning \"enabling responsible exploration.\"",
+    "impact": "regressive",
+    "weight": 1,
+    "note": "Watch how this interacts with the Mineral Tenure Act reforms that followed the 2023 Gitxaala ruling requiring consultation before claims are registered.",
+    "status": "not_started"
+  },
+  {
+    "id": "mining-power-carbon",
+    "category": "resources",
+    "text": "Give existing mines and smelters competitive industrial power rates, competitive carbon costs and fixed timelines for operating permits and mine-life extensions.",
+    "impact": "regressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "steel-coal",
+    "category": "resources",
+    "text": "Work with Ottawa to designate BC steel-making coal as a strategic mineral.",
+    "impact": "regressive",
+    "weight": 1,
+    "note": "Elk Valley coal mines are the source of long-running selenium pollution in the Kootenay watershed.",
+    "status": "not_started"
+  },
+  {
+    "id": "mining-tax-credit",
+    "category": "resources",
+    "text": "Expand the Mining Exploration Tax Credit and reinvest $5M a year for five years in Geoscience BC.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "reclamation-standards",
+    "category": "resources",
+    "text": "Maintain high environmental, safety and reclamation standards: \"Faster decisions do not mean weaker rules. You build it, you clean it.\"",
+    "impact": "progressive",
+    "weight": 1,
+    "note": "A line worth holding them to as permits get fast-tracked.",
+    "status": "not_started"
+  },
+  {
+    "id": "red-tape-2017",
+    "category": "economy",
+    "text": "Cut red tape back to 2017 levels by the end of the first term, with a \"one-in, two-out\" regulation law and a Minister for Red Tape Reduction.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Blanket regulation caps don't distinguish paperwork from protections. Many post-2017 rules cover worker safety, environmental protection, tenant rights and Indigenous consultation.",
+    "status": "not_started"
+  },
+  {
+    "id": "major-project-timelines",
+    "category": "economy",
+    "text": "Legislate firm project approval timelines, including a 120-day permitting process for major projects over $250 million, and harmonize with federal fast-track rules so BC-led projects are approved within one year.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Fixed clocks compress environmental assessment and the duty to consult.",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "Lorne Doerkson's Plan for a Stronger BC (2026 platform, PDF)",
+        "url": "https://conservativebc.ca/wp-content/uploads/2026/10/20261016_BCC_Platform2026_8-5x11-Draft-18_compressed.pdf",
+        "publisher": "Conservative Party of BC",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "competitive-bidding",
+    "category": "economy",
+    "text": "Restore broad competitive bidding for provincial infrastructure.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Likely ends the NDP's Community Benefits Agreements, which require union membership on major public projects and set hiring targets for apprentices, women and Indigenous workers.",
+    "status": "not_started"
+  },
+  {
+    "id": "getting-to-yes",
+    "category": "economy",
+    "text": "Shift the civil service toward \"getting to yes\" with industry and end the \"culture of suspicion\" toward job creators.",
+    "impact": "regressive",
+    "weight": 1,
+    "note": "Regulators exist to protect the public interest; recasting them as obstacles erodes independent oversight.",
+    "status": "not_started"
+  },
+  {
+    "id": "professional-reliance",
+    "category": "economy",
+    "text": "Trust qualified professionals \"to do the work they are certified to do, as happened before 2018.\"",
+    "impact": "regressive",
+    "weight": 1,
+    "note": "Likely targets the 2018 Professional Governance Act, which tightened oversight of professionals who sign off on resource-industry work after a review of the \"professional reliance\" model.",
+    "status": "not_started"
+  },
+  {
+    "id": "skilledtrades-audit",
+    "category": "economy",
+    "text": "Audit SkilledTradesBC to ensure the Crown corporation is meeting its mandate.",
+    "impact": "neutral",
+    "weight": 1,
+    "note": "Watch whether it rolls back compulsory trades certification, which the NDP reintroduced.",
+    "status": "not_started"
+  },
+  {
+    "id": "worksafebc-review",
+    "category": "economy",
+    "text": "Review WorkSafeBC rules \"to modernize policies and accommodate changing workforces and business environments.\"",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "Watch for weakened worker protections.",
+    "status": "not_started"
+  },
+  {
+    "id": "investment-summit",
+    "category": "economy",
+    "text": "Hold a \"BC Open for Business\" Investment Summit; appoint a Premier's Advisory Council on Investment; restore the Premier's Technology Council; re-establish the Small Business Roundtable.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "ai-strategy",
+    "category": "economy",
+    "text": "Develop a Responsible AI strategy with privacy protections and safeguards for youth, seniors, vulnerable people and workers.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "defence-industry",
+    "category": "economy",
+    "text": "Fight for BC's share of federal defence and infrastructure spending, including a veterans workforce strategy.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "tourism-film",
+    "category": "economy",
+    "text": "An integrated rural, outdoor and eco-tourism plan; compete aggressively for film, TV and digital work; a Resort Municipality Strategy.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "arts-culture",
+    "category": "economy",
+    "text": "Support and market festivals, music, arts and cultural events; commit $15M toward the Filipino Cultural Centre in Vancouver.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "Lorne Doerkson's Plan for a Stronger BC (2026 platform, PDF)",
+        "url": "https://conservativebc.ca/wp-content/uploads/2026/10/20261016_BCC_Platform2026_8-5x11-Draft-18_compressed.pdf",
+        "publisher": "Conservative Party of BC",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "income-tax-cut",
+    "category": "taxes",
+    "text": "Raise the basic personal amount from $13,216 to $32,000, cutting income tax by about $1,000 a person ($2,000 for a two-earner couple). Est. $2.9B a year from the 2027 tax year.",
+    "impact": "mixed",
+    "weight": 3,
+    "note": "Raising the exemption is better targeted than cutting rates, and it takes many low earners off the tax rolls. But at $2.9B a year during a ~$14B deficit, it's the platform's biggest cost and the main pressure behind spending restraint. People who earn too little to owe tax get nothing.",
+    "status": "not_started"
+  },
+  {
+    "id": "no-new-taxes",
+    "category": "taxes",
+    "text": "No new taxes and no increases to existing taxes for the entire term.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Rules out revenue tools like higher taxes on top earners, wealth or windfall profits; the NDP had proposed a tax on the top 3.88% of earners. With a large deficit, spending cuts become the only lever.",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservatives promise no new taxes if elected",
+        "url": "https://globalnews.ca/news/12075070/bc-election-september-27-conservative-platform/",
+        "publisher": "Global News"
+      }
+    ]
+  },
+  {
+    "id": "pst-professional-services",
+    "category": "taxes",
+    "text": "Permanently cancel the NDP's PST expansion to professional services (Budget 2026 counted on $534M from it in 2027/28).",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "The NDP had already paused it. Cancelling forgoes over $500M a year, mostly paid by businesses.",
+    "status": "not_started"
+  },
+  {
+    "id": "pst-business-capital",
+    "category": "taxes",
+    "text": "No PST for three years on machinery, equipment and business software, bought or leased. Est. $500M a year.",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "Economists broadly agree PST on business inputs is inefficient, but this is $1.5B in business tax relief during a deficit, with no conditions on investment or jobs.",
+    "status": "not_started"
+  },
+  {
+    "id": "pst-major-projects",
+    "category": "taxes",
+    "text": "Defer PST on designated major projects until they're in service (est. $80M a year deferred).",
+    "impact": "regressive",
+    "weight": 1,
+    "note": "A tax break that mainly benefits large resource projects like LNG.",
+    "status": "not_started"
+  },
+  {
+    "id": "translink-car-tax",
+    "category": "taxes",
+    "text": "Amend the TransLink Act so TransLink can't put a tax or levy on owning or registering a car.",
+    "impact": "regressive",
+    "weight": 1,
+    "note": "Closes off a funding source for Metro Vancouver transit, which faces a structural operating shortfall.",
+    "status": "not_started"
+  },
+  {
+    "id": "first-job-credit",
+    "category": "taxes",
+    "text": "First Job Tax Credit for businesses on the first $5,000 of payroll for a young British Columbian's first job (est. $75M a year from 2028/29).",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "tax-panel",
+    "category": "taxes",
+    "text": "Appoint a blue-ribbon panel to report within 180 days on simplifying BC's tax system and attracting investment.",
+    "impact": "neutral",
+    "weight": 1,
+    "note": "Watch whether it recommends shifting from income taxes toward consumption taxes, which fall harder on lower-income people.",
+    "status": "not_started"
+  },
+  {
+    "id": "eht-exemption",
+    "category": "taxes",
+    "text": "Raise the Employer Health Tax exemption and index it to inflation.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "small-business-rate",
+    "category": "taxes",
+    "text": "Lower the small-business tax rate as growth allows and as the province returns to balance.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "alcohol-pst",
+    "category": "taxes",
+    "text": "Remove the PST at the till on Canadian beer, wine and spirits for the duration of the US trade war.",
+    "impact": "neutral",
+    "weight": 1,
+    "note": "Not in the platform's costing; NDP leader David Eby put the cost at almost $300M.",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      },
+      {
+        "title": "'Absolutely doable' or 'wishful thinking'? Doerkson defends costed B.C. Conservative platform",
+        "url": "https://www.ctvnews.ca/vancouver/article/doerkson-says-bc-conservative-growth-projection-of-32-absolutely-doable/",
+        "publisher": "CTV News"
+      }
+    ]
+  },
+  {
+    "id": "seniors-deferral",
+    "category": "taxes",
+    "text": "Restore the previous terms of the seniors' property tax deferral program.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "multigenerational-credit",
+    "category": "taxes",
+    "text": "Match the federal Multigenerational Home Renovation Tax Credit with provincial relief.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "lng-royalties",
+    "category": "taxes",
+    "text": "Build a \"competitive and stable\" royalty framework for LNG and natural gas.",
+    "impact": "regressive",
+    "weight": 1,
+    "note": "\"Competitive\" royalties usually means lower ones: less public return on a publicly owned resource.",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "core-review",
+    "category": "budget",
+    "text": "Core review of every ministry outside health, education and child care, social development, children and family development, the Attorney General and public safety, seeking 7% of a $10.9B slice of spending ($763M a year by 2029/30).",
+    "impact": "regressive",
+    "weight": 3,
+    "note": "This is where program cuts are most likely to come from. Ministries covering environment and parks, Indigenous relations, housing, labour, post-secondary education, agriculture, forests, energy, transportation and arts are all exposed.",
+    "status": "not_started"
+  },
+  {
+    "id": "hiring-freeze",
+    "category": "budget",
+    "text": "Freeze administrative and management hiring and leave positions unfilled as people leave, returning staffing to what it would be had it grown with population since 2016/17. \"No frontline worker is laid off.\" Saves $1.03B a year by 2029/30.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Comes on top of the 15,000 public-sector positions the NDP's own budget already planned to cut. Attrition cuts fall wherever people happen to leave, so watch wait times for permits, benefits and inspections.",
+    "status": "not_started"
+  },
+  {
+    "id": "fiscal-review",
+    "category": "budget",
+    "text": "Immediately appoint an independent panel of experts to review the province's \"true fiscal position\" and report publicly before the first budget.",
+    "impact": "neutral",
+    "weight": 2,
+    "note": "New governments often use these reviews to justify deeper cuts or dropped promises (\"the books were worse than we thought\"). Watch who's appointed and what it recommends.",
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-10-25",
+        "text": "Doerkson confirms an independent review of the province's finances: \"Before we table a budget, you will have the full picture.\"",
+        "sources": [
+          {
+            "title": "B.C. premier-designate Doerkson urges unity and promises swift action after decisive victory",
+            "url": "https://peacearchnews.com/2026/10/25/b-c-premier-designate-doerkson-addresses-media-after-conservative-majority-win/",
+            "publisher": "Peace Arch News",
+            "date": "2026-10-25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fiscal-anchors",
+    "category": "budget",
+    "text": "Four fiscal anchors from the first budget: the deficit falls every year, shrinks as a share of the economy, operating spending grows slower than the economy, and progress is reported publicly every quarter.",
+    "impact": "mixed",
+    "weight": 2,
+    "note": "Quarterly public reporting is a plus. But spending that grows slower than the economy means public services shrink relative to population and need over time.",
+    "status": "not_started"
+  },
+  {
+    "id": "merit-hiring",
+    "category": "budget",
+    "text": "\"Restore merit-based hiring\" across the public sector.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Likely aimed at BC's equity-focused hiring programs for Indigenous, racialized and disabled applicants, which Conservatives have criticized.",
+    "status": "not_started"
+  },
+  {
+    "id": "consultant-cuts",
+    "category": "budget",
+    "text": "Cut outside consultant and professional-services contracts by 20% in ministries, and hold health authorities, school districts, universities, colleges and Crowns to the same target.",
+    "impact": "neutral",
+    "weight": 1,
+    "note": "Less outsourcing can be good. Watch whether health authorities and school districts cut contracted services people rely on.",
+    "status": "not_started"
+  },
+  {
+    "id": "contingency-cut",
+    "category": "budget",
+    "text": "Cut the Contingencies Vote from $5B to $3B, moving expected wildfire and signed wage-settlement costs into ministry budgets and reporting every draw.",
+    "impact": "neutral",
+    "weight": 1,
+    "note": "More transparent, but a thinner buffer for disasters.",
+    "status": "not_started"
+  },
+  {
+    "id": "capital-audit",
+    "category": "budget",
+    "text": "Audit the provincial capital plan and report within six months; publish the cost of every major project.",
+    "impact": "neutral",
+    "weight": 1,
+    "note": "Projects could be delayed or cancelled based on its findings.",
+    "status": "not_started"
+  },
+  {
+    "id": "metro-vancouver",
+    "category": "budget",
+    "text": "Turn Metro Vancouver into a \"lean regional utility\" with a professional board, returning its other functions to local governments.",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "Metro Vancouver also runs regional parks, affordable housing and air quality regulation. Watch what gets \"returned\" or dropped.",
+    "status": "not_started"
+  },
+  {
+    "id": "waste-review",
+    "category": "budget",
+    "text": "Review recent \"NDP waste and abuse of tax dollars,\" end duplication and hold agencies accountable for results.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "universal-healthcare",
+    "category": "health",
+    "text": "Fully fund and protect universal public health care: \"you will access health care with your BC Health Card, not your credit card, every time.\"",
+    "impact": "progressive",
+    "weight": 2,
+    "note": "A clear, quotable commitment. Any user fees, extra-billing or expansion of private-pay care would break it.",
+    "status": "not_started"
+  },
+  {
+    "id": "health-guarantee",
+    "category": "health",
+    "text": "Universal Health-Care Guarantee: publicly funded treatment through \"another qualified provider\" when surgical wait benchmarks are exceeded.",
+    "impact": "mixed",
+    "weight": 3,
+    "note": "Could shorten waits, but it routes public money to private surgical clinics. The common critique of this model is that private clinics draw scarce surgeons, nurses and anesthetists away from public hospitals.",
+    "status": "not_started"
+  },
+  {
+    "id": "patients-first-review",
+    "category": "health",
+    "text": "Launch a 100-day \"Patients First\" review of reforms from other universal systems to cut waits, expand capacity and keep ERs open, \"without user fees.\"",
+    "impact": "neutral",
+    "weight": 2,
+    "note": "Watch whether the recommendations lean on private delivery. \"Without user fees\" is the line to hold them to.",
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-10-25",
+        "text": "Doerkson says he'll establish a commission on keeping ERs open and cutting wait times within his first 100 days.",
+        "sources": [
+          {
+            "title": "B.C. premier-designate Doerkson urges unity and promises swift action after decisive victory",
+            "url": "https://peacearchnews.com/2026/10/25/b-c-premier-designate-doerkson-addresses-media-after-conservative-majority-win/",
+            "publisher": "Peace Arch News",
+            "date": "2026-10-25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rural-ers",
+    "category": "health",
+    "text": "Keep rural ERs and maternity wards open, backed by flexible staffing and a $50M Rural Health Emergency Fund.",
+    "impact": "progressive",
+    "weight": 2,
+    "note": "Targets a real failure: the platform cites nearly 2,400 temporary ER closures from 2023 to 2025.",
+    "status": "not_started"
+  },
+  {
+    "id": "home-care",
+    "category": "health",
+    "text": "Expand consumer-directed, publicly funded home care from accredited providers so seniors can age at home.",
+    "impact": "progressive",
+    "weight": 2,
+    "note": "Positive if it's properly funded. Watch the share going to for-profit providers.",
+    "status": "not_started"
+  },
+  {
+    "id": "ltc-restart",
+    "category": "health",
+    "text": "Restart the seven long-term care homes the NDP shelved ($1.43B), redesigned to cost less per bed.",
+    "impact": "progressive",
+    "weight": 2,
+    "note": "Budget 2026 moved these homes to \"TBC.\" Watch that \"cost less per bed\" doesn't mean lower care standards.",
+    "status": "not_started"
+  },
+  {
+    "id": "ltc-portable-funding",
+    "category": "health",
+    "text": "Portable public funding for the 7,200 people waiting for long-term care, with a choice of public, non-profit and private providers.",
+    "impact": "mixed",
+    "weight": 2,
+    "note": "BC's Seniors Advocate has found for-profit care homes deliver fewer direct care hours than non-profits. This could steer more public money into for-profit care.",
+    "status": "not_started"
+  },
+  {
+    "id": "shingles-hearing",
+    "category": "health",
+    "text": "Free shingles vaccine for seniors; help low-income seniors afford hearing aids.",
+    "impact": "progressive",
+    "weight": 2,
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "Lorne Doerkson's Plan for a Stronger BC (2026 platform, PDF)",
+        "url": "https://conservativebc.ca/wp-content/uploads/2026/10/20261016_BCC_Platform2026_8-5x11-Draft-18_compressed.pdf",
+        "publisher": "Conservative Party of BC",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "mental-health-access",
+    "category": "health",
+    "text": "Expand timely access to psychiatric services, community mental health care, crisis response and residential treatment.",
+    "impact": "progressive",
+    "weight": 2,
+    "status": "not_started"
+  },
+  {
+    "id": "mha-review",
+    "category": "health",
+    "text": "Independent review of the Mental Health Act covering brain injuries, schizophrenia and dementia.",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "BC's Mental Health Act is unusual in Canada for its \"deemed consent\" to psychiatric treatment of involuntary patients. A review could strengthen patient rights or broaden detention.",
+    "status": "not_started"
+  },
+  {
+    "id": "handydart",
+    "category": "health",
+    "text": "Expand HandyDART to areas of greatest demand and enforce service standards for contractors.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "rural-transport",
+    "category": "health",
+    "text": "Increase access to rural medical transport.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "surrey-hospitals",
+    "category": "health",
+    "text": "Finish the new Surrey Hospital and BC Cancer Centre on its $2.88B budget; secure the site and business case for a Surrey women's and children's hospital in the first term.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "health-workforce",
+    "category": "health",
+    "text": "Train and recruit more doctors, nurses and staff; remove barriers to full scope of practice; speed up credential recognition.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "health-capital-local",
+    "category": "health",
+    "text": "$60M for a cardiac cath lab at Nanaimo Regional General, new MRIs at Eagle Ridge and Chilliwack, and Urgent and Primary Care Centres in 11 communities.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "womens-mental-health",
+    "category": "health",
+    "text": "Deliver a women's mental health strategy.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "drinking-water",
+    "category": "health",
+    "text": "$50M provincial commitment for safe drinking water in Hedley and Osoyoos.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "hpoa-fix",
+    "category": "health",
+    "text": "Fix the Health Professions and Occupations Act, which the party says \"intrudes on\" health professionals' independence.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "health-outcomes-reporting",
+    "category": "health",
+    "text": "Publish clear information on access to care and outcomes.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "end-safe-supply",
+    "category": "drugs",
+    "text": "End the \"safe supply\" approach and move funding \"from free drugs to drug prevention, treatment and recovery.\"",
+    "impact": "regressive",
+    "weight": 3,
+    "note": "Prescribed alternatives to the toxic street supply are a harm-reduction tool; ending them pushes people back to fentanyl-contaminated drugs. The NDP had already moved to witnessed dosing in 2025.",
+    "status": "not_started"
+  },
+  {
+    "id": "ops-review",
+    "category": "drugs",
+    "text": "Review and reform overdose prevention and injection/inhalation sites with local input, aiming for \"fewer and better-situated\" sites.",
+    "impact": "regressive",
+    "weight": 3,
+    "note": "Supervised consumption and overdose prevention sites reverse overdoses on the spot. Fewer sites during an ongoing toxic-drug crisis means more people using alone.",
+    "status": "not_started"
+  },
+  {
+    "id": "mandatory-treatment",
+    "category": "drugs",
+    "text": "Mandatory care for people whose addiction, mental illness or brain injury leaves them unable to care for themselves or at immediate risk of serious harm: \"off the street and in care.\"",
+    "impact": "mixed",
+    "weight": 3,
+    "note": "Deeply contested. Supporters see compassion for people in crisis. Civil-liberties groups and many addiction specialists point to weak evidence for forced addiction treatment and higher overdose risk after release. The NDP also began expanding involuntary care in 2024.",
+    "status": "not_started"
+  },
+  {
+    "id": "drug-free-facilities",
+    "category": "drugs",
+    "text": "Enforce drug rules in hospitals, shelters and publicly funded supportive housing; \"stop forcing drug-friendly facilities on communities.\"",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Banning use in shelters and supportive housing pushes people to use alone or outdoors, the highest-risk settings for a fatal overdose.",
+    "status": "not_started"
+  },
+  {
+    "id": "treatment-expansion",
+    "category": "drugs",
+    "text": "Expand detox, clinical treatment, recovery housing and aftercare, including rural and northern capacity, and work toward treatment on demand.",
+    "impact": "progressive",
+    "weight": 2,
+    "note": "A real gain if funded, but the platform budgets only $95M a year at full cost for all its mental health and addiction measures, phased in over the term.",
+    "status": "not_started"
+  },
+  {
+    "id": "youth-intervention",
+    "category": "drugs",
+    "text": "Strengthen upstream intervention for vulnerable children and youth, with better coordination as they transition to adulthood.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "discharge-plans",
+    "category": "drugs",
+    "text": "People leaving treatment or corrections get plans for care, housing and follow-up.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "naloxone",
+    "category": "drugs",
+    "text": "Expand naloxone access.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "drug-courts",
+    "category": "drugs",
+    "text": "Expand the use of drug courts.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "public-disorder",
+    "category": "drugs",
+    "text": "End public drug use and \"public disorder on our streets and in our public spaces.\"",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "Depends entirely on the approach. Enforcement-led crackdowns tend to displace people without reducing harm.",
+    "status": "not_started"
+  },
+  {
+    "id": "local-density-control",
+    "category": "housing",
+    "text": "Let local governments decide where density goes and what it looks like, \"not bureaucrats in Victoria,\" holding them to their own Official Community Plans.",
+    "impact": "regressive",
+    "weight": 3,
+    "note": "Signals a rollback of the NDP's provincial zoning reforms (small-scale multi-unit housing and transit-oriented density), which override exclusionary local zoning to allow more homes. Many housing advocates credit them with unlocking supply.",
+    "status": "not_started"
+  },
+  {
+    "id": "construction-charges",
+    "category": "housing",
+    "text": "Cut construction taxes, development charges and \"unnecessary\" fees on new homes.",
+    "impact": "mixed",
+    "weight": 2,
+    "note": "Lowers building costs, but development charges pay for local infrastructure. Cutting them shifts costs onto property taxpayers or delays services unless the province makes up the difference.",
+    "status": "not_started"
+  },
+  {
+    "id": "step-code",
+    "category": "housing",
+    "text": "Overhaul the Energy Step Code, which the platform says \"has nothing to do with safety and quality construction,\" and simplify the building code.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "The Step Code moves new buildings toward net-zero-energy-ready by 2032. Weakening it locks in higher energy bills and emissions for the life of each building.",
+    "status": "not_started"
+  },
+  {
+    "id": "keep-spec-tax",
+    "category": "housing",
+    "text": "Keep the foreign buyers tax and the Speculation and Vacancy Tax.",
+    "impact": "progressive",
+    "weight": 2,
+    "note": "Good news: keeps two NDP measures that curb speculation and push empty homes onto the market. Doerkson at the Oct 14 debate: \"I will keep those in place.\"",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "faster-approvals",
+    "category": "housing",
+    "text": "Approve homes \"in months, not years,\" align zoning bylaws with community plans, and dramatically shorten approvals for \"family-oriented growth.\"",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "growth-with-services",
+    "category": "housing",
+    "text": "Make sure growth comes with roads, transit, health care, schools and utilities.",
+    "impact": "neutral",
+    "weight": 1,
+    "note": "Sensible, but \"infrastructure first\" is also a common rationale for blocking density.",
+    "status": "not_started"
+  },
+  {
+    "id": "farm-worker-housing",
+    "category": "housing",
+    "text": "Make on-farm housing work for agriculture, prioritizing farm worker housing permits.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "disability-100",
+    "category": "social",
+    "text": "Increase provincial disability assistance by $100 a month, with annual rate reviews.",
+    "impact": "progressive",
+    "weight": 3,
+    "note": "A real gain for people on disability assistance, though rates stay well below the poverty line. The platform budgets this group of measures at $200M a year at full cost, phased in from 10% in 2027/28, so watch when it actually lands.",
+    "status": "not_started"
+  },
+  {
+    "id": "spousal-clawback",
+    "category": "social",
+    "text": "End reductions to disability assistance based on a spouse's income.",
+    "impact": "progressive",
+    "weight": 3,
+    "note": "Disability advocates have campaigned for years against this \"spousal penalty,\" which forces people to choose between a relationship and financial independence.",
+    "status": "not_started"
+  },
+  {
+    "id": "pwd-earnings",
+    "category": "social",
+    "text": "Raise the single-person disability (PWD) annual earnings exemption from $16,200 to $30,000.",
+    "impact": "progressive",
+    "weight": 2,
+    "status": "not_started"
+  },
+  {
+    "id": "autism-funding",
+    "category": "social",
+    "text": "Extend the existing Autism Funding Program, review the shift of autism support into the Disability Benefit so no family loses support, and never compel families into a centralized care model.",
+    "impact": "progressive",
+    "weight": 2,
+    "note": "Responds to families who pushed back against the NDP's earlier plan to move to centralized \"hub\" services.",
+    "status": "not_started"
+  },
+  {
+    "id": "icbc-public",
+    "category": "social",
+    "text": "Keep ICBC as a public insurer and no-fault for most claims; don't raise ICBC rates.",
+    "impact": "progressive",
+    "weight": 2,
+    "note": "Keeps public auto insurance. Watch the separate promise to \"expand choice\" in auto insurance.",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "Lorne Doerkson's Plan for a Stronger BC (2026 platform, PDF)",
+        "url": "https://conservativebc.ca/wp-content/uploads/2026/10/20261016_BCC_Platform2026_8-5x11-Draft-18_compressed.pdf",
+        "publisher": "Conservative Party of BC",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "auto-insurance-choice",
+    "category": "social",
+    "text": "Expand auto insurance choice \"where competition can improve price and service\"; give catastrophically injured victims access to lawyers, with capped legal fees.",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "A partial reopening of the market could weaken the public model over time.",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "Lorne Doerkson's Plan for a Stronger BC (2026 platform, PDF)",
+        "url": "https://conservativebc.ca/wp-content/uploads/2026/10/20261016_BCC_Platform2026_8-5x11-Draft-18_compressed.pdf",
+        "publisher": "Conservative Party of BC",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "family-benefit",
+    "category": "social",
+    "text": "Increase the BC Family Benefit and the Affordable Child Care Benefit to reflect cost-of-living pressure on young families.",
+    "impact": "progressive",
+    "weight": 2,
+    "status": "not_started"
+  },
+  {
+    "id": "rural-families",
+    "category": "social",
+    "text": "Stronger support for families in rural BC: travel assistance, mobile therapy, outreach, virtual care and flexible direct funding.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "activity-credit",
+    "category": "social",
+    "text": "Refundable BC Children's Activity Credit of up to $500 per child per year for sports, recreation, music, arts and camps.",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "Refundable is good, but activity credits mostly reward families who can already afford to pay upfront.",
+    "status": "not_started"
+  },
+  {
+    "id": "sogi-repeal",
+    "category": "education",
+    "text": "Repeal SOGI 123 and \"instead address bullying directly.\"",
+    "impact": "regressive",
+    "weight": 3,
+    "note": "SOGI 123 gives teachers resources to make schools inclusive for LGBTQ2S+ students, who face much higher rates of bullying. It dates from 2016 under the BC Liberal government. Repeal removes a tool used in BC schools for a decade.",
+    "status": "not_started"
+  },
+  {
+    "id": "parental-notification",
+    "category": "education",
+    "text": "Increase \"parental transparency and choice,\" including access to curriculum materials and \"appropriate notification and opt-out rights.\"",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Similar \"parental rights\" policies in Saskatchewan and Alberta require parental consent before schools use a young student's chosen name or pronouns. Watch whether BC's version outs trans students.",
+    "status": "not_started"
+  },
+  {
+    "id": "school-meals",
+    "category": "education",
+    "text": "Expand school meal programs in high-need communities: \"No child in British Columbia should have to go hungry at school, ever.\"",
+    "impact": "progressive",
+    "weight": 2,
+    "note": "Positive, though targeted. The NDP's Feeding Futures fund already supports meals across districts; watch that expansion doesn't replace broader funding.",
+    "status": "not_started"
+  },
+  {
+    "id": "childcare-24h",
+    "category": "education",
+    "text": "Create 24-hour child care spaces for shift workers and first responders, and encourage child care at or near worksites like hospitals.",
+    "impact": "progressive",
+    "weight": 2,
+    "status": "not_started"
+  },
+  {
+    "id": "childcare-independent",
+    "category": "education",
+    "text": "Make independent (including for-profit) providers eligible for new $10-a-day spaces as the program expands, \"within existing funding.\"",
+    "impact": "mixed",
+    "weight": 2,
+    "note": "Could open spaces faster, but research has generally found lower average quality in for-profit child care. \"Within existing funding\" means no new money for the expansion.",
+    "status": "not_started"
+  },
+  {
+    "id": "childcare-priority",
+    "category": "education",
+    "text": "Prioritize new $10-a-day spaces for children and families with the fewest alternatives and highest need.",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "Targets need, but moves away from a universal system.",
+    "status": "not_started"
+  },
+  {
+    "id": "childcare-red-tape",
+    "category": "education",
+    "text": "Remove regulations that delay new child care spaces; make it easier for teachers, social workers and others to work as ECE assistants.",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "Watch for loosened staffing ratios or qualification standards.",
+    "status": "not_started"
+  },
+  {
+    "id": "school-liaison",
+    "category": "education",
+    "text": "Enable School Liaison Officer (police in schools) programs and make it easier for educators to \"establish order.\"",
+    "impact": "regressive",
+    "weight": 1,
+    "note": "Several districts, including Vancouver and New Westminster, ended SLO programs in 2021 after concerns raised by Black, Indigenous and racialized students and families.",
+    "status": "not_started"
+  },
+  {
+    "id": "antisemitism-campus",
+    "category": "education",
+    "text": "Require colleges and universities to enforce codes of conduct against targeting of Jewish students as a condition of provincial funding.",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "Protecting students from harassment is right; tying funding to speech-related enforcement raises campus free-expression concerns.",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "letter-grades-exams",
+    "category": "education",
+    "text": "Restore letter grades for grades 4–9, bring back provincial exams, and focus on evidence-based literacy and math.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "o-canada-flags",
+    "category": "education",
+    "text": "Sing O Canada at the start of the school day and fly Canadian and BC flags at every school.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "phones-schools",
+    "category": "education",
+    "text": "Further limit phone use in schools.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "shop-trades",
+    "category": "education",
+    "text": "Bring back shop classes and build shop facilities in new schools; expand dual-credit programs, apprenticeships and paid work experience.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "life-skills",
+    "category": "education",
+    "text": "Before graduation, require financial literacy, civics, digital and AI safety, and a Holocaust-education unit.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "playgrounds-rec",
+    "category": "education",
+    "text": "Double the Playground Equipment Program to $10M a year and create a matching fund for municipal fields, arenas, pools and recreation facilities.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "law-enforcement-1000",
+    "category": "justice",
+    "text": "Add 1,000 law enforcement personnel: 250 police recruits, 500 RCMP, 30 sheriffs and 150 civilian staff over five years, plus 50 Crown prosecutors and a push for 20 more trial judges.",
+    "impact": "mixed",
+    "weight": 2,
+    "note": "More prosecutors, judges and sheriffs address real court delays. But the platform puts more into public-safety resources ($178M a year at full cost) than into mental health and addiction treatment ($95M).",
+    "status": "not_started"
+  },
+  {
+    "id": "bail-repeat-offenders",
+    "category": "justice",
+    "text": "Stop the \"revolving door\": stronger bail and warrant enforcement, a dedicated repeat-offender court stream and expanded electronic monitoring.",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "Bail law is federal, so provincial tools are mostly enforcement and Crown policy. Tougher bail practices fall hardest on Indigenous people, who are already heavily overrepresented in BC jails.",
+    "status": "not_started"
+  },
+  {
+    "id": "ihra-definition",
+    "category": "justice",
+    "text": "Adopt the IHRA working definition of antisemitism across schools, campuses, health care and the public sector; require specialized police and Crown training on antisemitic hate crimes.",
+    "impact": "mixed",
+    "weight": 2,
+    "note": "Many Jewish organizations support IHRA. Civil-liberties groups and many academics warn that its examples can be used to restrict criticism of Israel and pro-Palestinian advocacy.",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "hate-speech-policing",
+    "category": "justice",
+    "text": "Empower police to act on hate speech, incitement and street disorder; bar public funding for organizations \"linked to terrorism or glorifying political violence.\"",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "Vague definitions could be turned against protest and advocacy groups.",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "co-response",
+    "category": "justice",
+    "text": "Strengthen coordinated crisis responses pairing police with mental health professionals and clinical teams.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "religious-security",
+    "category": "justice",
+    "text": "Expand security funding for vulnerable religious communities; raise anti-hate grants to $50,000 per application.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "Lorne Doerkson's Plan for a Stronger BC (2026 platform, PDF)",
+        "url": "https://conservativebc.ca/wp-content/uploads/2026/10/20261016_BCC_Platform2026_8-5x11-Draft-18_compressed.pdf",
+        "publisher": "Conservative Party of BC",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "anti-extortion",
+    "category": "justice",
+    "text": "Anti-Extortion Action Plan with specialized investigators and protection pathways for threatened businesses and families.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "seven-day-trial",
+    "category": "justice",
+    "text": "Launch a Seven-Day Trial Pilot to speed up straightforward criminal cases.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "illegal-guns",
+    "category": "justice",
+    "text": "Target illegal guns, \"not lawful hunters, farmers and gun owners.\"",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "noncitizen-removal",
+    "category": "justice",
+    "text": "Work with Ottawa to remove non-citizen criminals from Canada.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "public-safety-reporting",
+    "category": "justice",
+    "text": "Publish annual public safety results on repeat offending, bail compliance, court delays and treatment access.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "massey-bridge",
+    "category": "transport",
+    "text": "Abandon the Fraser River (George Massey) tunnel and build a 10-lane bridge within the $8.5B already set aside; ask Ottawa to redirect its up-to-$3B contribution.",
+    "impact": "regressive",
+    "weight": 2,
+    "note": "Adds general traffic capacity, and wider crossings tend to fill with more cars (induced demand). Switching designs again also means a new environmental assessment in the sensitive Fraser River estuary.",
+    "status": "not_started"
+  },
+  {
+    "id": "surrey-skytrain",
+    "category": "transport",
+    "text": "Work with Ottawa to fund and build SkyTrain along King George Boulevard to Newton Town Centre.",
+    "impact": "progressive",
+    "weight": 2,
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  },
+  {
+    "id": "transit-where-sense",
+    "category": "transport",
+    "text": "Support SkyTrain, BRT/RapidBus, bus and ferry expansion \"where population and ridership demonstrate the need.\"",
+    "impact": "neutral",
+    "weight": 1,
+    "note": "Conditional: transit follows demand rather than shaping growth.",
+    "status": "not_started"
+  },
+  {
+    "id": "future-corridors",
+    "category": "transport",
+    "text": "\"BC Future Corridors\": roads, bridges, bypasses, lane expansions, rail and public transit.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "rail-ports",
+    "category": "transport",
+    "text": "Increase rail capacity through the Fraser Canyon, advance Lower Mainland grade separations, and support Roberts Bank and Prince Rupert port expansion.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "ferries-charter",
+    "category": "transport",
+    "text": "BC Ferries Passenger Charter of Rights with standards for reliability, on-time performance, capacity, affordability and service.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "ferries-reshoring",
+    "category": "transport",
+    "text": "Review BC Ferries' fleet renewal contracts (\"we should not be building ships in China\") and reshore vessel production to BC.",
+    "impact": "neutral",
+    "weight": 1,
+    "note": "Could delay badly needed new vessels.",
+    "status": "not_started"
+  },
+  {
+    "id": "ferries-federal-funding",
+    "category": "transport",
+    "text": "Renegotiate federal ferry funding to levels comparable to Atlantic ferry services.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "trucking-safety",
+    "category": "transport",
+    "text": "Investigate trucking companies that break the rules or employ unqualified drivers; mandate dash cams.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "wildfire-prevention",
+    "category": "wildfire",
+    "text": "Budget for wildfire at what it actually costs and move money upstream: active forest management, prescribed and cultural burning, fuel breaks, predictable FireSmart funding, and hectares treated reported every year.",
+    "impact": "progressive",
+    "weight": 2,
+    "note": "One of the platform's strongest commitments. Prevention and cultural burning are what wildfire experts and First Nations have long called for.",
+    "status": "not_started"
+  },
+  {
+    "id": "wildfire-aircraft",
+    "category": "wildfire",
+    "text": "$400M provincial wildfire aircraft fleet, including waterbombers, leased to the Southern Hemisphere in BC's off-season.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "wildfire-innovation",
+    "category": "wildfire",
+    "text": "$100M Wildfire Innovation Fund for detection, monitoring and suppression technology.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "community-protection-forestry",
+    "category": "wildfire",
+    "text": "Community Protection Forestry: a set share of timber allocation goes to clearing high-risk areas around communities.",
+    "impact": "mixed",
+    "weight": 1,
+    "note": "Fuel reduction is needed, but tying it to timber allocation can turn \"wildfire protection\" into logging of mature forest.",
+    "status": "not_started"
+  },
+  {
+    "id": "flood-drought",
+    "category": "wildfire",
+    "text": "Dikes, drainage and water storage for the Fraser Valley, the Interior and the coast.",
+    "impact": "progressive",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "wildfire-committee",
+    "category": "wildfire",
+    "text": "A Premier-chaired Wildfire Response Cabinet Committee, ready for summer 2027.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started"
+  },
+  {
+    "id": "respect-local-democracy",
+    "category": "democracy",
+    "text": "Pass a Respect Local Democracy Act separating provincial and municipal election calendars and barring provincial elections within 60 days of municipal ones.",
+    "impact": "neutral",
+    "weight": 1,
+    "status": "not_started",
+    "updates": [
+      {
+        "date": "2026-10-25",
+        "text": "Doerkson says he'll immediately work on changes to avoid overlapping provincial and municipal elections.",
+        "sources": [
+          {
+            "title": "B.C. premier-designate Doerkson urges unity and promises swift action after decisive victory",
+            "url": "https://peacearchnews.com/2026/10/25/b-c-premier-designate-doerkson-addresses-media-after-conservative-majority-win/",
+            "publisher": "Peace Arch News",
+            "date": "2026-10-25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "legal-professions-repeal",
+    "category": "democracy",
+    "text": "Repeal the NDP's 2024 Legal Professions Act changes.",
+    "impact": "neutral",
+    "weight": 1,
+    "note": "The Law Society of BC challenged the Act in court as a threat to the legal profession's independence.",
+    "status": "not_started",
+    "sources": [
+      {
+        "title": "BC Conservative Party platform 2026: Promises by issue",
+        "url": "https://bcballot.ca/platforms/conservative-party/",
+        "publisher": "BC Ballot"
+      }
+    ]
+  }
+]
